@@ -29,7 +29,7 @@
 
 	<groupId>io.syndesis</groupId>
 	<artifactId>syndesis-parent</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2.0.fuse-000003</version>
 	<packaging>pom</packaging>
 
 	<name>Syndesis :: Parent</name>
@@ -63,7 +63,7 @@
 		<activemq.version>5.15.2</activemq.version>
 
 		<!-- Global camel version used everywhere -->
-		<camel.version>2.20.1</camel.version>
+		<camel.version>2.21.0.fuse-000007</camel.version>
 
 		<!-- Don't fork based on cores, doesn't work nicely in the cloud -->
 		<basepom.test.fork-count>1</basepom.test.fork-count>
